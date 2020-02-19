@@ -1,0 +1,71 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/PreMainMenu.unity
+    guid: cefe58b090e785143be0eae06782136f
+  - enabled: 1
+    path: Assets/Scenes/MainMenu.unity
+    guid: 531f0f43a71c5de46ada7bd8b349806f
+  - enabled: 1
+    path: Assets/Scenes/alphabetScene.unity
+    guid: 99c9720ab356a0642a771bea13969a05
+  - enabled: 1
+    path: Assets/Scenes/SelectLevel.unity
+    guid: 5d12738a8bf72a3478c3a92654744f5e
+  - enabled: 0
+    path: 
+    guid: 00000000000000000000000000000000
+  - enabled: 1
+    path: Assets/Scenes/Catching.unity
+    guid: 7568ca546298fa8429b16a78bc7bd5e5
+  - enabled: 0
+    path: 
+    guid: 00000000000000000000000000000000
+  - enabled: 1
+    path: Assets/Scenes/balouchiScene.unity
+    guid: a24480ec84e98c4478a06dc455d415b9
+  - enabled: 1
+    path: Assets/Scenes/kashmirScene.unity
+    guid: 41227db25f19b5b47ac65d89a4e3d51a
+  - enabled: 1
+    path: Assets/Scenes/KPKScene.unity
+    guid: ffd0448f0ca689947abd0e9d6f3eb7ee
+  - enabled: 1
+    path: Assets/Scenes/punjabScene.unity
+    guid: 0d9345395749f574c93a3945e402aab7
+  - enabled: 1
+    path: Assets/Scenes/sindhScene.unity
+    guid: 6d6be5f6da1e85f4ea5bd1234745686a
+  - enabled: 1
+    path: Assets/Scenes/Colors of Pakistan.unity
+    guid: 454e69434c6b8bb4a821a36cf563800f
+  - enabled: 1
+    path: Assets/Scenes/QuizUp.unity
+    guid: b66a71336fd490649800f69290c3de23
+  - enabled: 1
+    path: Assets/Scenes/QuizUpScore.unity
+    guid: 25fbdeeae7ad5e441a0d33356bfd1906
+  - enabled: 1
+    path: Assets/Scenes/selectQuiz.unity
+    guid: 828dddbf1102cd64882c4cb42aec358c
+  - enabled: 1
+    path: Assets/Scenes/jungleLife.unity
+    guid: f08b5d8b9b1fff74b8fa679d81e7ad57
+  - enabled: 1
+    path: Assets/Scenes/pakistan.unity
+    guid: ee43696696d50bf41ac007ef0058418a
+  - enabled: 1
+    path: Assets/Scenes/PreQuiz.unity
+    guid: 3dd26b95265140f4ba22f57054da6f37
+  - enabled: 1
+    path: Assets/Scenes/PreGame.unity
+    guid: ef46c05fe55e3b14a954e82386c5d7c9
+  - enabled: 1
+    path: Assets/Scenes/catchScore.unity
+    guid: bd7501610ddd671498242a3991554aec
+  m_configObjects: {}
